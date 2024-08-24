@@ -1,7 +1,6 @@
 # MarbleRace
 ## Sketchfab Link:
 https://skfb.ly/p7YRS
-![Uploading 0222.png…]()
 
 
 ## View Video Here:
