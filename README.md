@@ -1,4 +1,5 @@
 # MarbleRace
+I am really happy with this render. I used Eevee to render because I didn't have the power in my laptop to render the 550 frames. It showed my that you can get good results from an eevee render though. I loved using the neon colours.
 ## Sketchfab Link:
 https://skfb.ly/p7YRS
 
